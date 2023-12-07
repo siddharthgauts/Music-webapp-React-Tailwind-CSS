@@ -1,5 +1,5 @@
 # Music-webapp-React-Tailwind-CSS
-<h2>Chcekout: https://musically-sid.vercel.app/</h2>
+<h2>Chcekout the WebApp: https://musically-sid.vercel.app/</h2>
 
 <h1>🎵 Musically: A React-Tailwind Frontend Experience 🎵</h1>
 
