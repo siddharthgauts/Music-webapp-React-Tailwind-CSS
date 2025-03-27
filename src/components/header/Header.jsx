@@ -15,9 +15,9 @@ export const Header = () => {
       <div className='hidden md:flex justify-between px-7 p-2'>
         {/* logo */}
         <div className='logo flex'>
-          <div>
+{/*           <div>
             <img src={logo} alt='logo' width='40px' height='40px' />
-          </div>
+          </div> */}
           <h2 className='text-2xl font-semibold ml-3'>Hey..NADYA....This is boy SID, I made a playlist for u..hehe</h2>
         </div>
 
